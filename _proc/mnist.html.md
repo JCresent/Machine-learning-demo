@@ -7,6 +7,20 @@ from tensorflow import keras # Keras contains the mnist dataset
 from matplotlib import pyplot as plt  # library that helps us visualize data by creating plots 
 import seaborn as sn # visualization library for creating more complex graphs
 ```
+
+::: {.cell-output .cell-output-error}
+
+::: {.ansi-escaped-output}
+
+```{=html}
+<pre><span class="ansi-red-fg ansi-bold">Failed to start the Kernel. 
+
+</span><span class="ansi-red-fg ansi-bold">View Jupyter &lt;a href='command:jupyter.viewOutput'&gt;log&lt;/a&gt; for further details.</span></pre>
+```
+
+:::
+
+:::
 :::
 
 
